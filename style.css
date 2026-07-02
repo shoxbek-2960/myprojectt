@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(23, 97, 81);
+}
+h1{
+    text-align: center;
+    background-color: rgb(69, 36, 2);
+    color: white;
+   width: 300px;
+   margin: auto;
+   margin: 5%;
+margin-left: 500px;
+
+}
+.text1{
+    height: 250px;
+    margin: auto;
+    background-color: black;
+    width: 600px;
+    padding-bottom: 10px;
+    border: 5px solid red;
+    padding: 50px;
+  
+  }
+  .text2{
+    background-color: aquamarine;
+    
+    width: 600px;
+    height: 100px;
+    padding-top:  10px;
+   border-bottom: 600px;
+   margin: 10px;
+   
+  }
+  .text3{
+     background-color: aquamarine;
+   
+    width: 600px;
+    height: 100px;
+    padding-top: 10px;
+   margin:10px;
+   
+  }
